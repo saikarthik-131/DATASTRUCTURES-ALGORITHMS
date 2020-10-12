@@ -1,3 +1,6 @@
 # DATASTRUCTURES-ALGORITHMS
 CONCEPT 1
 TIME COMPLEXITY
+1-Big O Notation
+2-Theta Notation
+3-Gamma Notaton
